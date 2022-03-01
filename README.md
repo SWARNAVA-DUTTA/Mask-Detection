@@ -1,8 +1,8 @@
 # MaskDetection
  
 <div float:left>
- <img src="https://user-images.githubusercontent.com/46235752/156165647-84d3849a-eb16-4570-beb0-98ab78dd8b30.png" width="500" height="400">
- <img src="https://user-images.githubusercontent.com/46235752/156165380-f3f4be63-f291-4919-b6b7-5997aa7bd9f6.png" width="500" height="400">
+ <img src="https://user-images.githubusercontent.com/46235752/156165647-84d3849a-eb16-4570-beb0-98ab78dd8b30.png" width="400" height="300">
+ <img src="https://user-images.githubusercontent.com/46235752/156165380-f3f4be63-f291-4919-b6b7-5997aa7bd9f6.png" width="400" height="300">
 </div>
 <br/><br/>
 
